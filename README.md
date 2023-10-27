@@ -26,4 +26,10 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Sources
 
+Mdn web docs for help with SVG - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+ChatGPT by OpenAI @ https://openai.com/blog/chatgpt
+stack overflow for help with git errors - https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
+
 ## About Me
+
+For more checkout my github: https://github.com/Bwainuna
