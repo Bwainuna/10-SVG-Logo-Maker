@@ -1,4 +1,4 @@
-# 10-SVG-Logo-Maker
+# SVG-Logo-Maker
 ## User Story
 
 AS a freelance web developer
